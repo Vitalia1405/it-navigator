@@ -1,0 +1,45 @@
+2025-06-19 18:32:52,067 [INFO] ===== Motion Capture App Started =====
+2025-06-19 18:32:52,067 [INFO] Instructions: Press 'F' for Video mode, 'R' for Photo mode, 'Q' to exit.
+2025-06-19 18:32:52,625 [INFO] [MotionDetector] Initialized with first frame.
+2025-06-19 18:32:59,651 [INFO] [AppController] Video mode selected.
+2025-06-19 18:33:00,891 [INFO] [VideoRecorder] Recording started: captured_videos\2025-06-19_18-33-00.avi
+2025-06-19 18:33:11,347 [INFO] [AppController] Exit command received.
+2025-06-19 18:33:11,347 [INFO] [AppController] Cleaning up resources...
+2025-06-19 18:33:11,645 [INFO] [VideoRecorder] Recording stopped and saved.
+2025-06-19 18:33:11,688 [INFO] [AppController] Program exited cleanly.
+2025-06-19 18:33:23,588 [INFO] ===== Motion Capture App Started =====
+2025-06-19 18:33:23,589 [INFO] Instructions: Press 'F' for Video mode, 'R' for Photo mode, 'Q' to exit.
+2025-06-19 18:33:24,134 [INFO] [MotionDetector] Initialized with first frame.
+2025-06-19 18:33:29,621 [INFO] [AppController] Photo mode selected.
+2025-06-19 18:33:29,934 [INFO] [PhotoCapturer] Photo saved: captured_photos\2025-06-19_18-33-29.jpg
+2025-06-19 18:33:31,942 [INFO] [PhotoCapturer] Photo saved: captured_photos\2025-06-19_18-33-31.jpg
+2025-06-19 18:33:34,025 [INFO] [PhotoCapturer] Photo saved: captured_photos\2025-06-19_18-33-34.jpg
+2025-06-19 18:33:35,686 [INFO] [AppController] Exit command received.
+2025-06-19 18:33:35,686 [INFO] [AppController] Cleaning up resources...
+2025-06-19 18:33:36,003 [INFO] [AppController] Program exited cleanly.
+2025-06-19 18:39:36,023 [INFO] ===== Motion Capture App Started =====
+2025-06-19 18:39:36,023 [INFO] Instructions: Press 'F' for Video mode, 'R' for Photo mode, 'Q' to exit.
+2025-06-19 18:39:36,566 [INFO] [MotionDetector] Initialized with first frame.
+2025-06-19 18:39:39,093 [INFO] [AppController] Switching to camera index: 1
+2025-06-19 18:39:39,441 [INFO] [AppController] Successfully switched to camera 1
+2025-06-19 18:39:41,063 [INFO] [AppController] Switching to camera index: 2
+2025-06-19 18:39:41,166 [INFO] [AppController] Successfully switched to camera 2
+2025-06-19 18:39:42,339 [INFO] [AppController] Switching to camera index: 3
+2025-06-19 18:39:42,628 [INFO] [AppController] Successfully switched to camera 3
+2025-06-19 18:39:43,664 [INFO] [AppController] Switching to camera index: 0
+2025-06-19 18:39:45,953 [INFO] [AppController] Successfully switched to camera 0
+2025-06-19 18:39:58,809 [INFO] [AppController] Exit command received.
+2025-06-19 18:39:58,809 [INFO] [AppController] Cleaning up resources...
+2025-06-19 18:39:59,119 [INFO] [AppController] Program exited cleanly.
+2025-06-19 18:41:16,532 [INFO] === Motion Capture Started ===
+2025-06-19 18:41:17,078 [INFO] [MotionDetector] Initialized with first frame.
+2025-06-19 18:41:19,538 [INFO] [AppController] Switching to camera index: 1
+2025-06-19 18:41:21,032 [INFO] [AppController] Switching to camera index: 2
+2025-06-19 18:41:22,371 [INFO] [AppController] Switching to camera index: 3
+2025-06-19 18:41:23,732 [INFO] [AppController] Switching to camera index: 0
+2025-06-19 18:41:32,833 [INFO] [VideoRecorder] Recording started: captured_videos\2025-06-19_18-41-32.avi
+2025-06-19 18:41:51,992 [INFO] [VideoRecorder] Recording stopped and saved.
+2025-06-19 18:41:54,158 [INFO] [VideoRecorder] Recording started: captured_videos\2025-06-19_18-41-54.avi
+2025-06-19 18:42:05,327 [INFO] Cleaning up resources...
+2025-06-19 18:42:05,608 [INFO] [VideoRecorder] Recording stopped and saved.
+2025-06-19 18:42:05,626 [INFO] Application exited cleanly.
